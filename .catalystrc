@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "8432000000010696",
+      "name": "TaskMaster",
+      "domain": {
+        "id": "50023209181",
+        "name": "taskmaster-60033837682.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60033837682",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
